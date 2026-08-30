@@ -1,6 +1,6 @@
-# Arktop
+# arktop
 
-Arktop is a lightweight terminal process monitor for macOS
+arktop is a lightweight terminal process monitor for macOS
 cleaner version of `top`
 
 version 0.1 is out -> a little out of scapes but better versions will arrive soon 
