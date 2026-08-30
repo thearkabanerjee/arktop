@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/arkabanerjee/Developer/arktop/build",
+  "command": "/usr/bin/clang++    -Wall -Wextra -Wpedantic -g -std=gnu++17 -arch arm64 -o CMakeFiles/arktop.dir/src/main.cpp.o -c /Users/arkabanerjee/Developer/arktop/src/main.cpp",
+  "file": "/Users/arkabanerjee/Developer/arktop/src/main.cpp",
+  "output": "CMakeFiles/arktop.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/arkabanerjee/Developer/arktop/build",
+  "command": "/usr/bin/clang++    -Wall -Wextra -Wpedantic -g -std=gnu++17 -arch arm64 -o CMakeFiles/arktop.dir/src/MacProcessProvider.cpp.o -c /Users/arkabanerjee/Developer/arktop/src/MacProcessProvider.cpp",
+  "file": "/Users/arkabanerjee/Developer/arktop/src/MacProcessProvider.cpp",
+  "output": "CMakeFiles/arktop.dir/src/MacProcessProvider.cpp.o"
+},
+{
+  "directory": "/Users/arkabanerjee/Developer/arktop/build",
+  "command": "/usr/bin/clang++    -Wall -Wextra -Wpedantic -g -std=gnu++17 -arch arm64 -o CMakeFiles/arktop.dir/src/Terminal.cpp.o -c /Users/arkabanerjee/Developer/arktop/src/Terminal.cpp",
+  "file": "/Users/arkabanerjee/Developer/arktop/src/Terminal.cpp",
+  "output": "CMakeFiles/arktop.dir/src/Terminal.cpp.o"
+}
+]

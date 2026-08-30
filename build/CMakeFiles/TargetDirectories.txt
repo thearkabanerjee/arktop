@@ -1,0 +1,3 @@
+/Users/arkabanerjee/Developer/arktop/build/CMakeFiles/arktop.dir
+/Users/arkabanerjee/Developer/arktop/build/CMakeFiles/edit_cache.dir
+/Users/arkabanerjee/Developer/arktop/build/CMakeFiles/rebuild_cache.dir
