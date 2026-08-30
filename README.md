@@ -32,7 +32,7 @@ and system resource information.
 
 ## Requirements
 
-Arktop currently targets **macOS**.
+arktop currently targets **macOS**.
 
 You need:
 
@@ -103,7 +103,7 @@ After building:
 You should see something similar to:
 
 ``` text
- ARKTOP   Processes: 410   |   Sort: CPU
+ arktop   Processes: 410   |   Sort: CPU
         CPU [██████████████░░░░░░░░░]  62.4%
         RAM [████████████████░░░░░░░]  78.1%  12.5 GB / 16.0 GB
         SWP [██░░░░░░░░░░░░░░░░░░░░░]   4.2%   0.7 GB / 16.0 GB
@@ -120,7 +120,7 @@ PID      NAME                             CPU%     MEM%       MEMORY STATE
 
   Key   Action
   ----- -----------------------
-  `q`   Quit Arktop
+  `q`   Quit arktop
   `j`   Move selection down
   `k`   Kill selected process
   `c`   Sort by CPU
@@ -170,7 +170,7 @@ clang++ -std=c++17 -Wall -Wextra -Wpedantic \
 
 ## Current Architecture
 
-Arktop is currently split into three main pieces:
+arktop is currently split into three main pieces:
 
 ### `main.cpp`
 
@@ -190,14 +190,14 @@ Responsible for retrieving process information from macOS.
 ### `Terminal.cpp/.hpp`
 
 Responsible for terminal setup, cursor movement, keyboard input, screen
-handling, and restoring the terminal when Arktop exits.
+handling, and restoring the terminal when arktop exits.
 
 ## Future Improvements
 
-Possible next steps for Arktop:
+Possible next steps for arktop:
 
 -   Separate process collection from the UI refresh loop
--   Reduce CPU usage of Arktop itself
+-   Reduce CPU usage of arktop itself
 -   Add scrolling through large process lists
 -   Add arrow-key navigation
 -   Add `F9`/function-key process controls
@@ -217,7 +217,7 @@ Possible next steps for Arktop:
 ## License
 
 This project is currently a personal project. Add a license here if you
-decide to publish Arktop.
+decide to publish arktop.
 
 
 
